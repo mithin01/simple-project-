@@ -1,0 +1,1 @@
+//program to check if a given charecher is a vowel or not (Using else-if ladder )
